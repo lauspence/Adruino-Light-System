@@ -1,7 +1,7 @@
 // Define constants for the PIR sensor pin, photoresistor pin, and LED pin
 const int pirPin = 2;
 const int photoPin = A0;
-const int ledPin = 13;a
+const int ledPin = 13;
 const int nightThreshold = 300; // Adjust this value according to your lighting conditions
 
 void setup() {
