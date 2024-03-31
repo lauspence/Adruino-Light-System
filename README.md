@@ -24,7 +24,7 @@ The Arduino-Light-System is a project aimed at creating an automated night light
 
 ## How It Works
 - The photoresistor continuously monitors ambient light levels.
- <img src="https://github.com/lauspence/Adruino-Light-System/assets/64370903/2cffe725-6212-4f50-a346-f3674e9a8b90" width="400" alt="System Lighting">
+- <img src="https://github.com/lauspence/Adruino-Light-System/assets/64370903/2cffe725-6212-4f50-a346-f3674e9a8b90" width="400" alt="System Lighting">
 - The PIR sensor detects motion within its detection range.
 - When both low light conditions and motion are detected, the LED bulb is activated to provide illumination.
 - The system includes a delay mechanism to allow a grace period for subsequent motion detection before turning off the light.
